@@ -1,2 +1,2 @@
-# bits_all
-bits
+# Bits All 
+Learning about bits. 
